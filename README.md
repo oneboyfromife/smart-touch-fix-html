@@ -1,1 +1,0 @@
-# smart-touch-fix-html
